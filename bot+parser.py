@@ -37,7 +37,7 @@ if __name__ == "__main__":
     main()
 
 #Bot
-token = "1923420310:AAE3mwgJkGNAB2qL03HWY13cBuPQMUbgG2w"
+token = ""
 bot = telebot.TeleBot(token)
  
 @bot.message_handler(commands=['start'])
