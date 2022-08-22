@@ -1,1 +1,1 @@
-Bot that allows you to find out the schedule of classes.
+Bot that helps you with the schedule.
